@@ -1,2 +1,2 @@
-The district name and th elocation anme will not get updated until the user press the submit button
-The submit button will not work if the input feilds are empty
+01. The district name and the district name will not get updated until the user presses the submit button
+02. The submit button will not work if the input fields are empty
